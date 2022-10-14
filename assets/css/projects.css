@@ -1,0 +1,10 @@
+.decorationProjects {
+    position: absolute;
+    top: 25rem;
+    left: -520px;
+    transform: rotate(90deg);
+    font-size: 25rem;
+    font-family: marvelo;
+    color: rgba(240, 240, 240, 0.562);
+    z-index: -1;
+}
